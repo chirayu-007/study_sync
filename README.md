@@ -1,4 +1,4 @@
-Study_Sync Project
+#Study_Sync Project
 
 A simple frontend project built using HTML and CSS to practice web design and layout skills. This project focuses on creating a clean and responsive interface for a study-related website.
 
