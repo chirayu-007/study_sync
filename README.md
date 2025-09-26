@@ -16,21 +16,11 @@ HTML & CSS Only: No JavaScript or backend required.
 
 Practice Project: Ideal for beginners to understand structure and styling of web pages.
 
-Project Structure
-Study-Sign/
-├── index.html
-├── style.css
-├── assets/
-│   ├── images/
-│   └── fonts/
-└── README.md
-
-
 index.html – Main webpage.
 
 style.css – Contains all styling rules.
 
-assets/ – Contains images, fonts, or other supporting files.
+Contains images, fonts, or other supporting files.
 
 Technologies Used
 
@@ -38,19 +28,9 @@ HTML5
 
 CSS3
 
-Flexbox / Grid (if used)
+Flexbox / Grid 
 
 Responsive Design Principles
-
-How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/repository-name.git
-
-
-Open index.html in your web browser.
-
 Future Improvements
 
 Add animations and hover effects.
